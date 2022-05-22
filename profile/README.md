@@ -1,4 +1,4 @@
-# Bienvenido a Veronica 👋
+# Bienvenido a Verónica 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-RolandoPalermo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/veronica-ec/)](https://www.linkedin.com/company/veronica-ec/)
 
