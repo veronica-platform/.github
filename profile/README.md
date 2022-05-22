@@ -1,12 +1,11 @@
-## Hi there 👋
+# Veronica Platform 👋
 
-<!--
+[![Linkedin Badge](https://img.shields.io/badge/-RolandoPalermo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/veronica-ec/)](https://www.linkedin.com/company/veronica-ec/)
 
-**Here are some ideas to get you started:**
+Verónica es el único proveedor de soluciones tecnológicas que ofrece capacidades completas de facturación electrónica para empresas modernas. Ahora, puede administrar sus firmas digitales, facturación electrónica, personalización de RIDES y notificaciones a sus clientes en una sola plataforma.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## E-Invoicing solutions
+
+### Ecuador
+- [https://api-sbox.veronica.ec/swagger-ui.html](https://api-sbox.veronica.ec/swagger-ui.html)
+- [https://api.veronica.ec/swagger-ui.html](https://api.veronica.ec/swagger-ui.html)
