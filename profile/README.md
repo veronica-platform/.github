@@ -6,6 +6,9 @@ Verónica es el único proveedor de soluciones tecnológicas que ofrece capacida
 
 ## Nuestras plataformas 🚀
 
-### Ecuador 🇪🇨
+### Ecuador (Sandbox) 🇪🇨
 - [https://api-sbox.veronica.ec/swagger-ui.html](https://api-sbox.veronica.ec/swagger-ui.html)
+- [https://app-sbox.veronica.ec/](https://app-sbox.veronica.ec/)
+### Ecuador (Production) 🇪🇨
 - [https://api.veronica.ec/swagger-ui.html](https://api.veronica.ec/swagger-ui.html)
+- [https://app.veronica.ec/](https://app.veronica.ec/)
