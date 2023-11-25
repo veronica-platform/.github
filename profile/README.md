@@ -7,10 +7,10 @@ Verónica es el único proveedor de soluciones tecnológicas que ofrece capacida
 ## Nuestras plataformas 🚀
 
 ### Ecuador (Sandbox) 🇪🇨
-- [https://api-sbox.veronica.ec/swagger-ui.html](https://api-sbox.veronica.ec/swagger-ui.html)
-- [https://catalogos.veronica.ec/swagger-ui/index.html#/](https://catalogos.veronica.ec/swagger-ui/index.html#/)
+- [https://api-sbox.veronica.ec/api/swagger-ui.html](https://api-sbox.veronica.ec/api/swagger-ui.html)
+- [https://api-sbox.veronica.ec/api/catalogos/swagger-ui/index.html#/](https://api-sbox.veronica.ec/api/catalogos/swagger-ui/index.html#/)
 - [https://app-sbox.veronica.ec/](https://app-sbox.veronica.ec/)
 ### Ecuador (Production) 🇪🇨
-- [https://api.veronica.ec/swagger-ui.html](https://api.veronica.ec/swagger-ui.html)
-- [https://catalogos.veronica.ec/swagger-ui/index.html#/](https://catalogos.veronica.ec/swagger-ui/index.html#/)
+- [https://api.veronica.ec/api/swagger-ui.html](https://api.veronica.ec/api/swagger-ui.html)
+- [https://api.veronica.ec/api/catalogos/swagger-ui/index.html#/](https://api.veronica.ec/api/catalogos/swagger-ui/index.html#/)
 - [https://app.veronica.ec/](https://app.veronica.ec/)
